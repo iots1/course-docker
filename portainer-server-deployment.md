@@ -18,4 +18,4 @@ curl -L https://downloads.portainer.io/portainer-agent-stack.yml -o portainer-ag
 docker stack deploy -c portainer-agent-stack.yml portainer
 ```
 
-Referrence: https://documentation.portainer.io/quickstart/?hsCtaTracking=cb3a059b-7f57-4333-a92f-b06202ef8690%7C4427d7bc-1ae8-4a30-812c-d30ee496008f
+Referrence: https://docs.portainer.io/v/ce-2.11/start/install/server/swarm/linux
